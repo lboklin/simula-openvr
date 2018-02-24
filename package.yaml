@@ -44,7 +44,7 @@ dependencies:
   - bytestring
 
 build-tools:
-  - c2hs >= 0.28.3
+  - c2hs >= 0.28.2
 
 extra-libraries:
   - openvr_api

@@ -13,3 +13,4 @@ src/**/*.cpp
 src/**/*.c
 *.so
 simula-openvr.cabal
+result

@@ -32,6 +32,6 @@ stdenv.mkDerivation rec {
     homepage = https://github.com/ValveSoftware/openvr;
     license = licenses.bsd3;
     platforms = platforms.linux;
-    maintainers = with maintainers; [ krakrjak ];
+    maintainers = "krakrjak";
   };
 }
