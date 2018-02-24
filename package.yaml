@@ -50,7 +50,6 @@ extra-libraries:
   - openvr_api
 
 include-dirs:
-  - openvr/headers
   - cbits
 
 
